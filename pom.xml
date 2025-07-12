@@ -32,7 +32,7 @@
         <mybatis-generator-core.version>1.4.0</mybatis-generator-core.version>
 
         <lombok.version>1.18.10</lombok.version>
-        <commons-lang3.version>3.9</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
     </properties>
 
     <dependencies>
